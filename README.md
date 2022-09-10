@@ -8,7 +8,7 @@ Com objetivo principal de criar um cartão que contém as informações de perfi
 - HTML
 - CSS
 
-## Dificuldades que eu tive
+## Dificuldades no projeto
 - Saber quando criar uma div e como posicionar usando o flexbox.
 - Usar bons nomes para as classes.
 - Organizar e estilar as classes no css.
