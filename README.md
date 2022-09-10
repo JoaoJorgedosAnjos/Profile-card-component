@@ -1,6 +1,6 @@
 # Profile card component
 Desafio profile card component do site Frontend Mentor/Dev Quest.
-Com objetivo principal de criar um cartão que continha as informações de perfil. Trabalhando habilidades de posicionamento de elementos utilizando o flexbox. 📦
+Com objetivo principal de criar um cartão que contém as informações de perfil. Trabalhando habilidades de posicionamento de elementos utilizando o flexbox. 📦
 
 [<img src="./tela2.png" alt="imagem do projeto">]
 
