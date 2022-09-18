@@ -1,9 +1,4 @@
 :root{
-    --primary-soft:hsl(185, 75%, 39%);
-    --primary-very-dark:hsl(229, 23%, 23%);
-    --primary-dark-grayish:hsl(227, 10%, 46%);
-
-    --neutral-dark: hsl(0, 0%, 59%)
-
+    --back-ground-collor:hsl(185, 75%, 39%);
+    --second-font-collor:hsl(0, 0%, 59%);
 }
-
